@@ -1,0 +1,1 @@
+document.getElementById("h1").setAttribute("Style", "color: blue; font-size: 80px; font-weight: bold; text-align: center; font-family: Arial;")
